@@ -1,0 +1,18 @@
+.navBar {
+    background-color: #3367d6;
+}
+.searchBox {
+    background-color: #2858a7;
+    margin: auto;
+    width: 400px;
+    height: 40px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.searchBox input {
+    background-color: transparent;
+    color: #ffffff;
+    border: 0;
+    outline: none;
+}
